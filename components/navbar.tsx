@@ -2,6 +2,7 @@ import Link from "next/link";
 import Container from "./UI/container";
 import MainNav from "./main-nav";
 import getCatrgories from "@/actions/get-categories";
+import NavbarActions from "./navbar-actions";
 
 const Navbar = async () => {
     const categories = await getCatrgories()
