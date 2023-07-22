@@ -1,5 +1,6 @@
 import { Product } from "@/types";
 import NoResults from "./UI/no-results";
+import ProductCard from "./UI/product-card";
 
 interface ProductListProps{
     title: string,
@@ -11,6 +12,11 @@ const ProductList: React.FC<ProductListProps> = ({items, title}) => {
     <div className="h-3">
         <h3 className="text-bold text-3xl">{title}</h3>
         {items.length === 0 && <NoResults/>}
+        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 ">
+            {items.map((item)=>(
+                <ProductCard key={item.id} data={item}/>
+            ))}
+        </div>
     </div>  
     );
 }
