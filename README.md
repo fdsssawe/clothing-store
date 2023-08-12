@@ -1,4 +1,4 @@
-# <a href="https://clothing-store-plnabpume-fdsssawe.vercel.app" target="_blank">Store</a>
+# <a href="" target="_blank">Dashboard</a>
 Simple clothing store to showcase functianality of dashboard that was made earlier<br/>
 
 # 🛠️ Stack 
