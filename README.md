@@ -1,4 +1,4 @@
-# <a href="" target="_blank">Dashboard</a>
+# <a href="https://clothing-store-plnabpume-fdsssawe.vercel.app" target="_blank">Store</a>
 Simple clothing store to showcase functianality of dashboard that was made earlier<br/>
 
 # 🛠️ Stack 
@@ -7,7 +7,7 @@ Simple clothing store to showcase functianality of dashboard that was made earli
 Next.js 13, TypeScript, Tailwind
 
 ### Resources
-Vercel, PlanetScale
+Vercel
 ### Architecture diagram
 
 # 🔧 How to run a project localy
