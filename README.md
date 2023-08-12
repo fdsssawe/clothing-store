@@ -1,4 +1,4 @@
-# <a href="" target="_blank">Dashboard</a>
+# <a href="" target="_blank">Store</a>
 Simple clothing store to showcase functianality of dashboard that was made earlier<br/>
 
 # 🛠️ Stack 
